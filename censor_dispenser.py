@@ -1,7 +1,7 @@
-email_one = open("/Users/mahmutozmen/Desktop/censor_dispenser/email_one.txt", "r").read()
-email_two = open("/Users/mahmutozmen/Desktop/censor_dispenser/email_two.txt", "r").read()
-email_three = open("/Users/mahmutozmen/Desktop/censor_dispenser/email_three.txt", "r").read()
-email_four = open("/Users/mahmutozmen/Desktop/censor_dispenser/email_four.txt", "r").read()
+email_one = open("/Users/Username/Desktop/censor_dispenser/email_one.txt", "r").read()
+email_two = open("/Users/Username/Desktop/censor_dispenser/email_two.txt", "r").read()
+email_three = open("/Users/Username/Desktop/censor_dispenser/email_three.txt", "r").read()
+email_four = open("/Users/Username/Desktop/censor_dispenser/email_four.txt", "r").read()
 
 
 def censor1(email,word):
